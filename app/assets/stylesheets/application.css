@@ -1,0 +1,26 @@
+h1, h2, h3{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+body {
+    background-color: lightgray;
+}
+
+
+
+table {
+    margin:0 auto;
+    color: aliceblue;
+
+}
+
+.post_content {
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+
